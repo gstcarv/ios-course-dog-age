@@ -18,8 +18,10 @@ Simple native IOS app built with Swift on XCode. It's basically an app to calcul
 
 # Preview
 
+<p float="left">
   <img src="./GithubAssets/shot-1.png" width="250"/>
   <img src="./GithubAssets/shot-2.png" width="250"/>
+</p>
 
 ## Thanks
 
