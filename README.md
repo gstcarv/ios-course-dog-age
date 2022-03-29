@@ -2,7 +2,7 @@
 
 </p>
 
-<div align="center">
+<div align="center" style="margin-bottom: 20px">
 
   <img src="./GithubAssets/dog.png" />
 
@@ -15,6 +15,8 @@
 </div>
 
 Simple native IOS app built with Swift on XCode. It's basically an app to calculate a dog age as human age, considering that 1 age of dog is equivalent to 7 human age
+
+Refers to udemy IOS course <a href="https://www.udemy.com/course/curso-desenvolvimento-ios/">https://www.udemy.com/course/curso-desenvolvimento-ios/</a>
 
 # Preview
 
